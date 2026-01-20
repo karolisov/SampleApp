@@ -1,0 +1,76 @@
+# React Native
+# See https://github.com/github/gitignore/blob/main/ReactNative.gitignore
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+android/app/build/
+android/build/
+ios/build/
+
+# Bundler
+.bundle/
+
+# Metro
+.expo/
+.expo-shared/
+
+# Misc
+.env
+.env.*
+
+# Xcode
+ios/Pods/
+ios/Podfile.lock
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# Test
+coverage/
+
+# Watchman
+.watchmanconfig
+
+# Misc
+*.swp
+*.swo
+
+# React Native Packager
+packager-info.json
+react-native-debugger.json
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Buck
+buck-out/
+.buckconfig.local
+.buckd/
+
+# Expo
+web-build/
+
+# macOS
+*.xcuserstate
+
+# VSCode
+.vscode/

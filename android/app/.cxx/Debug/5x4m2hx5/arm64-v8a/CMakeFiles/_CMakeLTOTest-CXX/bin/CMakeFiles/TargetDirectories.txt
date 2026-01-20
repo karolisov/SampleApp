@@ -1,0 +1,4 @@
+/Users/karolis.samuilis/Documents/GitHub/SampleApp/android/app/.cxx/Debug/5x4m2hx5/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/karolis.samuilis/Documents/GitHub/SampleApp/android/app/.cxx/Debug/5x4m2hx5/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/karolis.samuilis/Documents/GitHub/SampleApp/android/app/.cxx/Debug/5x4m2hx5/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/karolis.samuilis/Documents/GitHub/SampleApp/android/app/.cxx/Debug/5x4m2hx5/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
