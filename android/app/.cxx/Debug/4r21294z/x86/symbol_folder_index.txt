@@ -1,0 +1,1 @@
+/Users/karolis.samuilis/Documents/GitHub/SampleApp2/android/app/build/intermediates/cxx/Debug/4r21294z/obj/x86
